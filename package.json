@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "best deal",
+  "main": "new on market",
+  "scripts": {
+    "test": "bamazon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtunc000/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "MT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtunc000/bamazon/issues"
+  },
+  "homepage": "https://github.com/mtunc000/bamazon#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
